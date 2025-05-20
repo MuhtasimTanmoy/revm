@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [19.0.1](https://github.com/MuhtasimTanmoy/revm/compare/revm-primitives-v19.0.0...revm-primitives-v19.0.1) - 2025-05-20
+
+### Other
+
+- nit, activation timestamp was 84, first 7702 bundle landed in 86 ([#2528](https://github.com/MuhtasimTanmoy/revm/pull/2528))
+- make crates.io version badge clickable ([#2526](https://github.com/MuhtasimTanmoy/revm/pull/2526))
+- add Prague activation timestamp ([#2514](https://github.com/MuhtasimTanmoy/revm/pull/2514))
+- Storage Types Alias ([#2461](https://github.com/MuhtasimTanmoy/revm/pull/2461))
+
 ## [19.0.0](https://github.com/bluealloy/revm/compare/revm-primitives-v18.0.0...revm-primitives-v19.0.0) - 2025-05-07
 
 ### Added
